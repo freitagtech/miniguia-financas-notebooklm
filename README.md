@@ -29,11 +29,13 @@ As seguintes fontes abertas foram selecionadas para compor a base de conheciment
 ### Fonte 1
 
 **Guia de Educação Financeira**
+
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
 
 ### Fonte 2
 
 **Egov-DF – Educação Financeira Pessoal**
+
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://cfa.org.br/wp-content/uploads/2018/02/10cfa-cartilha-financa-pessoal.pdf
 
 ### Fonte 3
@@ -44,11 +46,13 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fbb.org.br/wp-conten
 ### Fonte 4
 
 **Estratégia Nacional de Educação Financeira (ENEF)**
+
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/pef/port/Estrategia_nacional_Educacao_Financeira_ENEF.pdf
 
 ### Fonte 5
 
 **Cartilha de Finanças Pessoais – Banco Central**
+
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf
 
 ---
