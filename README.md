@@ -269,6 +269,7 @@ Principais alternativas:
 ### Para Exercícios
 
 > Crie 10 questões de múltipla escolha sobre finanças pessoais para iniciantes.
+> https://notebooklm.google.com/notebook/7d7b7a0e-e210-49a9-a72b-779e464dbee5/artifact/895e37ae-b378-494c-8f0f-f10cf1fda621?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ### Para Casos Práticos
 
@@ -277,6 +278,7 @@ Principais alternativas:
 ### Para Revisão Rápida
 
 > Gere um mapa mental textual dos principais conceitos de educação financeira.
+> https://notebooklm.google.com/notebook/7d7b7a0e-e210-49a9-a72b-779e464dbee5/artifact/39816928-338c-4268-88df-9ea7ff2fd41e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ---
 
