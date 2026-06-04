@@ -29,27 +29,32 @@ As seguintes fontes abertas foram selecionadas para compor a base de conheciment
 ### Fonte 1
 
 **Guia de Educação Financeira**
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
+
+https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
 
 ### Fonte 2
 
 **Egov-DF – Educação Financeira Pessoal**
+
 http://cfa.org.br/wp-content/uploads/2018/02/10cfa-cartilha-financa-pessoal.pdf
 
 ### Fonte 3
 
 **Fundação Banco do Brasil – Educação Financeira**
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fbb.org.br/wp-content/uploads/2025/01/Cartilha-de-Educacao-Financeira-MUTS.pdf
+
+https://fbb.org.br/wp-content/uploads/2025/01/Cartilha-de-Educacao-Financeira-MUTS.pdf
 
 ### Fonte 4
 
 **Estratégia Nacional de Educação Financeira (ENEF)**
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/pef/port/Estrategia_nacional_Educacao_Financeira_ENEF.pdf
+
+https://www.bcb.gov.br/pre/pef/port/Estrategia_nacional_Educacao_Financeira_ENEF.pdf
 
 ### Fonte 5
 
 **Cartilha de Finanças Pessoais – Banco Central**
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf
+
+https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf
 
 ---
 
