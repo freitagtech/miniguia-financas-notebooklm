@@ -44,7 +44,7 @@ https://www.bcb.gov.br/cidadaniafinanceira
 ### Fonte 4
 
 **Estratégia Nacional de Educação Financeira (ENEF)**
-https://www.gov.br/fazenda/pt-br/assuntos/educacao-financeira
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/pef/port/Estrategia_nacional_Educacao_Financeira_ENEF.pdf
 
 ### Fonte 5
 
