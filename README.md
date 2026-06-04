@@ -2,9 +2,9 @@
 
 ## 1. Contexto e Objetivos
 
-### Tema Escolhido
-
 O conteúdo foi trabalhado no NotebookLm, segue link https://notebooklm.google.com/notebook/7d7b7a0e-e210-49a9-a72b-779e464dbee5
+
+### Tema Escolhido
 
 O tema selecionado para este caderno temático foi **Finanças Pessoais para Iniciantes**, com foco na organização financeira, planejamento de orçamento, formação de reserva de emergência e primeiros conceitos de investimentos.
 
