@@ -38,8 +38,8 @@ https://www.investidor.gov.br
 
 ### Fonte 3
 
-**Banco Central do Brasil – Cidadania Financeira**
-https://www.bcb.gov.br/cidadaniafinanceira
+**Fundação Banco do Brasil – Educação Financeira**
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fbb.org.br/wp-content/uploads/2025/01/Cartilha-de-Educacao-Financeira-MUTS.pdf
 
 ### Fonte 4
 
