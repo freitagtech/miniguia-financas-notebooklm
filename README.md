@@ -1,1 +1,1 @@
-# miniguia-finan-as-notebooklm
+# Miniguia-Finanças-NotebookLM
