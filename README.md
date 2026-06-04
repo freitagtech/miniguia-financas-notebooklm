@@ -280,6 +280,18 @@ Principais alternativas:
 
 ---
 
+# 5 Materiais de Reforço
+
+## Vídeo
+
+https://notebooklm.google.com/notebook/7d7b7a0e-e210-49a9-a72b-779e464dbee5/artifact/ab6fd6e3-e7a4-4397-859f-920db4c89359?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+## Áudio 
+
+https://notebooklm.google.com/notebook/7d7b7a0e-e210-49a9-a72b-779e464dbee5/artifact/4441d10e-76f3-4ae1-8ab1-703cb8ff7017?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+---
+
 # Conclusão
 
 O estudo introdutório de finanças pessoais permite compreender como administrar recursos financeiros de forma consciente e sustentável. O uso do NotebookLM, aliado à engenharia de prompts, facilitou a síntese das informações, a comparação de conceitos e a construção de materiais de revisão reutilizáveis para estudos futuros.
