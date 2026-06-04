@@ -29,7 +29,7 @@ As seguintes fontes abertas foram selecionadas para compor a base de conheciment
 ### Fonte 1
 
 **Guia de Educação Financeira**
-https://www.gov.br/cvm/pt-br/assuntos/educacao-financeira
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
 
 ### Fonte 2
 
