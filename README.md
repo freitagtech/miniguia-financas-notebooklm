@@ -34,7 +34,7 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/conte
 ### Fonte 2
 
 **Egov-DF – Educação Financeira Pessoal**
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://cfa.org.br/wp-content/uploads/2018/02/10cfa-cartilha-financa-pessoal.pdf
+http://cfa.org.br/wp-content/uploads/2018/02/10cfa-cartilha-financa-pessoal.pdf
 
 ### Fonte 3
 
