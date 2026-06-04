@@ -49,7 +49,7 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/p
 ### Fonte 5
 
 **Cartilha de Finanças Pessoais – Banco Central**
-https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro.pdf
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf
 
 ---
 
